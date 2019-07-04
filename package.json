@@ -1,6 +1,7 @@
 {
   "name": "nestjs-intro",
   "version": "0.0.1",
+  "node" : ">=9.0",
   "description": "",
   "author": "",
   "license": "MIT",
